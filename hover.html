@@ -1,24 +1,27 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Bootstrap NavBar</title>
+        <title>Bootstrap 4 Navbar with hover multi dropdown</title>
 
         <!-- Bootstrap -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-        <link href="css/bootstrap-4-navbar.css" rel="stylesheet">
+
+        <link href="css/bootstrap-4-hover-navbar.css" rel="stylesheet">
 
 
         <!--Demo purpose css-->
         <style>
             body {
-                padding-top: 10px;
+                padding-top: 50px;
             }
             .navbar {
                 margin:  40px 0;
             }
+            .jumbotron{background-color: #1f1f1f;color: #fff;}
 
         </style>
     </head>
@@ -26,10 +29,11 @@
 
 
 
+
         <div class="container">
 
             <!-- Static navbar -->
-            <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <nav class="navbar navbar-expand-md navbar-light bg-light btco-hover-menu">
                 <a class="navbar-brand" href="#">Navbar</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -105,16 +109,21 @@
                 <p>
                     <a class="btn btn-lg btn-danger" href="https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/" target="_blank" role="button">Live Demo</a>
                     <a class="btn btn-lg btn-primary" href="https://github.com/bootstrapthemesco/bootstrap-4-multi-dropdown-navbar"  target="_blank" role="button">Download from Github</a>
-                    <a class="btn btn-lg btn-info" href="http://menub4/hover.html" role="button">hover version</a>
+                    <a class="btn btn-lg btn-info" href="https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar-hover/"  target="_blank" role="button">hover version</a>
                 </p>
             </div>
 
         </div> <!-- /container -->
 
+
+
+
+
+
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
-        <script src="js/bootstrap-4-navbar.js"></script>
+        <script src="js/bootstrap-4-hover-navbar.js"></script>
     </body>
 </html>
