@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
-    <link href="assets/css/bootstrap-4-hover-navbar.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap-4-hover-navbar.css" rel="stylesheet">
 
 
     <!--Demo purpose css-->
@@ -40,7 +40,7 @@
 
     <!-- Static navbar -->
     <nav class="navbar navbar-expand-md navbar-light bg-light btco-hover-menu">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
