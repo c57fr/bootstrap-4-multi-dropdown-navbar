@@ -17,8 +17,8 @@ Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1. Check this [Demo](https://b
 
 <h4>Usage</h4>
 
-1. Add css header for caret right icon ```<link href="css/bootstrap-4-navbar.css" rel="stylesheet">```
-2. Add js for navbar events after include jquery and bootstrap js files ```<script src="js/bootstrap-4-navbar.js"></script>```
+1. Add css header for caret right icon ```<link href="css/bootstrap-4hover-navbar.css" rel="stylesheet">```
+2. Add js for navbar events after include jquery and bootstrap js files ```<script src="js/bootstrap-4-hover-navbar.js"></script>```
 
 
 
