@@ -1,6 +1,22 @@
+# Script développé exclusiment pour un usage local*
+
+#### Modifier le fichier .htaccess pour tout autre usage
+
+----
+
+\*: Vous pouvez l'appeler indifféremment avec
+ - http://localhost/menub4
+
+ ou
+
+ - http://**menub4**
+
+ (Pour cette dernière possibilité, avoir configuré votre VirtualHost **menub4** *(Rappel: Automatique avec Laragon pour système Windows )*)
+
+----
+
 # Bootstrap 4 Responsive Navbar with Multi level Dropdowns
 ==========================
-
 
 Tested on Bootstrap 4.0.0-alpha.6 and jQuery v3.1.1. Check this [Demo](https://bootstrapthemes.co/demo/resource/bootstrap-4-multi-dropdown-navbar/)
 
