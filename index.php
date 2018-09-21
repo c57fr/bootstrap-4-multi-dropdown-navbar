@@ -1,5 +1,3 @@
 <?php
-
-include "hover/pages/index.php";
-
+include "pages/index.php";
 ?>

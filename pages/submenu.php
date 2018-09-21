@@ -1,5 +1,5 @@
 <?php
-include "includes/debut.php";
+include "partials/debut.php";
 ?>
 
             <div class="container">
@@ -7,7 +7,7 @@ include "includes/debut.php";
             </div>
 
 <?php
-include "includes/fin.php";
+include "partials/fin.php";
 ?>
        
 

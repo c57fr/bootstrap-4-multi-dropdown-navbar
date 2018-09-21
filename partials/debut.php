@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
-    <link href="hover/css/bootstrap-4-hover-navbar.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-4-hover-navbar.css" rel="stylesheet">
 
 
     <!--Demo purpose css-->
@@ -62,9 +62,9 @@
                         Dropdown link
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="/hover/pages/action.php">Action</a></li>
+                        <li><a class="dropdown-item" href="/pages/action.php">Action</a></li>
                         <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><a class="dropdown-item dropdown-toggle" href="/hover/pages/submenu.php">Submenu</a>
+                        <li><a class="dropdown-item dropdown-toggle" href="/pages/submenu.php">Submenu</a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="#">Submenu action</a></li>
                                 <li><a class="dropdown-item" href="#">Another submenu action</a></li>
