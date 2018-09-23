@@ -13,6 +13,8 @@
 
  (Pour cette dernière possibilité, avoir configuré votre VirtualHost **menub4** *(Rappel: Automatique avec Laragon pour système Windows )*)
 
+ *: Seul le lien de Navbar est à adapter
+
 ----
 
 # Bootstrap 4 Responsive Navbar with Multi level Dropdowns
