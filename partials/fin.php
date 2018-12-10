@@ -12,6 +12,6 @@
         integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
         crossorigin="anonymous"></script>
 
-<script src="../assets/js/bootstrap-4-hover-navbar.js"></script>
+<script src="./assets/js/bootstrap-4-hover-navbar.js"></script>
 </body>
 </html>
